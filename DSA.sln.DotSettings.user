@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f871bbf8_002D1ada_002D4d84_002Daf0e_002Dbd1d61d7fd44/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSimpleExpression" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Stack.ExpressionEvaluatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Stack.FunctionCallManagementTest.ExecuteCommand_PrintCommand&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Stack.FunctionCallManagementTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Stack.MemoryManagerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Stack.BrowserHistoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.Queue.TaskSchedulerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.LinkedList.LinkedListTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CB86B9BB-07A4-4997-95C5-44FC637447E6::net7.0::Test.LinkedList.UndoRedoManagerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
