@@ -1,0 +1,15 @@
+D:\new\MySamples\DSA\DSA\bin\Debug\net7.0\DSA.exe
+D:\new\MySamples\DSA\DSA\bin\Debug\net7.0\DSA.deps.json
+D:\new\MySamples\DSA\DSA\bin\Debug\net7.0\DSA.runtimeconfig.json
+D:\new\MySamples\DSA\DSA\bin\Debug\net7.0\DSA.dll
+D:\new\MySamples\DSA\DSA\bin\Debug\net7.0\DSA.pdb
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.csproj.AssemblyReference.cache
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.AssemblyInfoInputs.cache
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.AssemblyInfo.cs
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.csproj.CoreCompileInputs.cache
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.dll
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\refint\DSA.dll
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.pdb
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\DSA.genruntimeconfig.cache
+D:\new\MySamples\DSA\DSA\obj\Debug\net7.0\ref\DSA.dll
