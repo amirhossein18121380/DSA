@@ -1,5 +1,4 @@
-﻿
-using DSA.HashTable;
+﻿using DSA.Heap;
 
 //Array_Based_Stack_Program.Apply();
 //List_Based_Stack_Program.Apply();
@@ -23,7 +22,9 @@ using DSA.HashTable;
 //UndoRedoManagerProgram.Apply();
 //DoublyNodeProgram.Apply();
 //CircularLinkedListProgram.Apply();
-HashTableProgram.Apply();
+//HashTableProgram.Apply();
+//MinHeapProgram.Apply();
+MaxHeapProgram.Apply();
 
 #region After All
 
