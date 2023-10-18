@@ -1,5 +1,14 @@
 ﻿use cases for stacks:
 
+(
+   3
+   2
+   1
+   ^
+   |
+  Top
+)
+
 1. **Expression Evaluation**: Stacks are often used to evaluate arithmetic expressions, such as converting infix expressions to postfix (RPN) notation and then evaluating them.
 
 2. **Function Call Management**: Stacks can be used to manage function calls in a program, including storing return addresses and local variables for each function call.

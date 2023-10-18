@@ -1,5 +1,7 @@
 ﻿use cases for queues:
 
+(Front  1 2 3 4 5  Rear)
+
 1. **Task Scheduling:** Queues are frequently used for managing and scheduling tasks or jobs in various applications. For example, in operating systems, task schedulers use queues to manage processes and allocate CPU time.
 
 2. **Breadth-First Search (BFS):** Queues are essential for implementing the BFS algorithm in graph traversal. BFS explores all the neighbor nodes at the present depth before moving to the next level.

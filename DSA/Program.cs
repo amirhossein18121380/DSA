@@ -1,4 +1,4 @@
-﻿using DSA.Heap;
+﻿using DSA.TreesAndGraphs;
 
 //Array_Based_Stack_Program.Apply();
 //List_Based_Stack_Program.Apply();
@@ -24,8 +24,9 @@
 //CircularLinkedListProgram.Apply();
 //HashTableProgram.Apply();
 //MinHeapProgram.Apply();
-MaxHeapProgram.Apply();
-
+//MaxHeapProgram.Apply();
+//TreeProgram.Apply();
+GraphProgram.Apply();
 #region After All
 
 //while (true)
